@@ -357,6 +357,7 @@ Good for team projects
 - Openshot - https://www.openshot.org
 - Video captions - https://subsvideo.com
 - VEED - https://www.veed.io
+- videos.social - https://videos.social/?utm_source=bassamejlaoui-awesome-startup-tools-list&utm_medium=directory&utm_campaign=listing-wave-d
 - Tavus (AI based) - https://www.tavus.io
 
 ### Stock Photos/Illustrations/Icons:
