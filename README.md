@@ -178,6 +178,7 @@ This is a curated list about tools for everything from productivity to hosting t
 ## Business, Marketing, Sales, Finance
 
 ### Analytics:
+- EarlyLore - https://earlylore.com
 - Google Analytics - https://analytics.google.com
 - New Relic https://newrelic.com/
 - Inspectlet	https://www.inspectlet.com/plans
